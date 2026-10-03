@@ -2,8 +2,8 @@ package learning.topic01.practice;
 
 public class Practice01 {
     void main() {
-        System.out.print("Hello ");
-        System.out.println("Java!");
-        System.out.println("Practice 1");
+        System.out.print("Test: ");
+        System.out.println("Login");
+        System.out.println("Status: passed");
     }
 }
